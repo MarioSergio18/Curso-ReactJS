@@ -1,9 +1,9 @@
-import './App.css';
+import './index.css';
 
 export default function App() {
   return (
     <div className="App">
-     <h2> Estudos em ReactJS. </h2>
+     <h2 className='textoP'> Estudos em ReactJS. </h2>
     </div>
   );
 }
