@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Indie+Flower&family=M+PLUS+Rounded+1c&display=swap');
+
+.Page-Contatos{
+    box-sizing: border-box;
+
+    .cabeçalho {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .Titulo{
+        font-family: 'Edu AU VIC WA NT Hand';
+        font-size: 35px;
+    }
+    
+    .icone-de-contato{
+        margin-top: 26px;
+        margin-right: 8px;
+        width: 80px;
+        height: 80px;
+    }
+    
+    .voltar {
+        margin-right: 13px;
+        font-size: 24px;
+        color: inherit;
+    }
+}

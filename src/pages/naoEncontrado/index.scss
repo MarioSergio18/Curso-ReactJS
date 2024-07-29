@@ -1,0 +1,21 @@
+.Page-Not-Found {
+    text-align: center;
+
+    .Titulo{
+        margin-top: 35px;
+        font-family: 'verdana';
+        color: #75E67C;
+        font-size: 27px;
+    }
+    
+    .imagem_not_found {
+        width: 836px;
+        height: 525px;
+        border-radius: 30px;
+        margin-top: 12px;
+    }
+
+    .voltar {
+        margin-right: 15px;
+    }
+}
